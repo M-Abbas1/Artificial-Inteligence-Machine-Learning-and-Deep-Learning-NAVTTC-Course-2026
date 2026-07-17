@@ -1,3 +1,5 @@
-l = [54, 34, 64, 34]
+import  csv
 
-l.
+with open("files\simple.csv", 'w') as f:
+    writer = csv.writer()
+    writer.writerows()

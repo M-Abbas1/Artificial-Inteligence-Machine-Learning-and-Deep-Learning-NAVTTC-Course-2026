@@ -1,0 +1,6 @@
+student_id,name,age,grade,math,physics,computer_science,attendance_pct
+STU-1,Ali Khan,16,10th,85,90,78,92
+STU-2,Sara Ahmed,17,11th,95,98,91,97
+STU-3,Bilal Hussain,16,10th,70,65,80,85
+STU-4,Ayesha Malik,15,9th,88,82,94,90
+STU-5,Hamza Tariq,17,11th,60,55,72,78
