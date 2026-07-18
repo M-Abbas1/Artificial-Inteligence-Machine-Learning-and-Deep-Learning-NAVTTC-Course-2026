@@ -1,0 +1,21 @@
+import  csv
+
+data = [
+    ["student_id","name","age","grade","math","physics","computer_science","attendance_pct"],
+    ["STU-1", "Ali Khan", 16, "10th", 85, 90, 78, 92],
+    ["STU-3", "Bilal Hussain", 16, "10th", 70, 65, 80, 85],
+    ["STU-2", "Sara Ahmed", 17, "11th", 95, 98, 91, 97],
+    ["STU-4", "Ayesha Malik", 15, "9th", 88, 82, 94, 90],    
+    ["STU-5", "Hamza Tariq", 17, "11th", 60, 55, 72, 78],
+    ["STU-6", "Fatima Noor", 16, "10th", 92, 89, 96, 99],
+    ["STU-7", "Usman Raza", 15, "9th", 75, 80, 68, 88],    
+    ["STU-8", "Zainab Iqbal", 17, "11th", 81, 77, 85, 93],
+    ["STU-9", "Ahmed Shah", 16, "10th", 55, 62, 58, 70],
+    ["STU-1", "Mariam Aslam", 15, "9th", 90, 94, 87, 95]
+]
+
+with open(r"files\students_data_1.csv", 'w') as f:
+    writer = csv.writer(f)
+    writer.writerows(data)
+
+
