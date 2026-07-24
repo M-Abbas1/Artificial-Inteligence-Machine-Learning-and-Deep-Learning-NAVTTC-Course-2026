@@ -1,0 +1,326 @@
+,Manufacturer,Category,Screen Size,Screen,RAM,Operating System,Operating System Version,Weight,Price,Core,Generation,Freq,AMD,Intel,Samsung
+0,1,notebook,15.6,1366x768,6,Windows,10,2.04kg,5148468.0,i7,7500U,2.7GHz,False,True,False
+1,2,gaming,17.3,1920x1080,16,Windows,10,2.99kg,15552108.0,i7,7700HQ,2.8GHz,False,True,False
+2,3,2 in 1 convertible,15.6,1920x1080,12,Windows,10,2.19kg,11550708.0,i7,7500U,2.7GHz,False,True,False
+3,4,notebook,13.3,1920x1080,4,Windows,7,1.2kg,10625940.0,i5,6200U,2.3GHz,False,True,False
+4,12,notebook,15.6,1920x1080,6,Windows,10,2.2kg,4881708.0,A12-Series,9720P,3.6GHz,True,False,False
+5,5,notebook,15.6,1366x768,4,Windows,10,2.3kg,5770908.0,i5,6200U,2.3GHz,False,True,False
+6,4,notebook,14.0,1366x768,4,Windows,10,1.75kg,8136180.0,i5,6200U,2.3GHz,False,True,False
+7,3,notebook,15.6,1366x768,4,Windows,10,2.25kg,5326308.0,i5,7200U,2.5GHz,False,True,False
+8,1,notebook,15.6,1920x1080,8,Windows,10,2.04kg,7166952.0,i5,7200U,2.5GHz,False,True,False
+9,12,gaming,15.6,1920x1080,8,Windows,10,2.5kg,10572588.0,i7,7700HQ,2.8GHz,False,True,False
+10,3,notebook,15.6,1366x768,8,Windows,10,2.36kg,6660108.0,i7,7500U,2.7GHz,False,True,False
+11,3,notebook,14.0,1920x1080,8,Windows,10,1.6kg,9950148.0,i5,7200U,2.5GHz,False,True,False
+12,1,netbook,12.5,1920x1080,8,Windows,10,0.97kg,16965936.0,M,6Y75,1.2GHz,False,True,False
+13,1,notebook,15.6,1920x1080,4,Windows,10,2.1kg,4437108.0,i3,6006U,2GHz,False,True,False
+14,12,notebook,15.6,1366x768,4,Windows,,1.9kg,2406353.04,Core,N3350,1.1GHz,False,True,False
+15,12,notebook,15.6,1920x1080,8,Windows,10,2.3kg,11995308.0,i5,6200U,2.3GHz,False,True,False
+16,3,2 in 1 convertible,13.3,1920x1080,8,Windows,10,1.68kg,7904988.0,i5,7200U,2.5GHz,False,True,False
+17,2,notebook,13.3,3200x1800,8,Windows,10,1.4kg,10225800.0,i5,7200U,2.5GHz,False,True,False
+18,1,ultrabook,13.3,1920x1080,8,Windows,10,1.11kg,11995308.0,i7,7500U,2.7GHz,False,True,False
+19,6,notebook,15.6,1366x768,4,Windows,10,2.4kg,3378960.0,Core,N4200,1.1GHz,False,True,False
+20,2,gaming,15.6,1920x1080,16,Windows,10,2.5kg,15996708.0,i7,7700HQ,2.8GHz,False,True,False
+21,1,ultrabook,14.0,1920x1080,8,Windows,10,1.48kg,18575388.0,i7,7500U,2.7GHz,False,True,False
+22,6,gaming,15.6,1920x1080,8,Windows,10,2.7kg,11203920.0,i7,7700HQ,2.8GHz,False,True,False
+23,1,notebook,13.3,1920x1080,8,Windows,10,1.34kg,10572588.0,i5,7200U,2.5GHz,False,True,False
+24,3,notebook,15.6,1366x768,4,Windows,10,2.18kg,4863924.0,i3,7100U,2.4GHz,False,True,False
+25,1,notebook,14.0,1366x768,4,Windows,10,1.64kg,6926868.0,i5,7200U,2.5GHz,False,True,False
+26,4,notebook,13.3,1920x1080,4,Windows,10,1.2kg,10625940.0,i5,6200U,2.3GHz,False,True,False
+27,1,notebook,14.0,1366x768,4,Windows,10,1.48kg,9781111.08,i5,6300U,2.4GHz,False,True,False
+28,1,notebook,14.0,1920x1080,4,Windows,10,1.95kg,10714860.0,i5,7200U,2.5GHz,False,True,False
+29,1,ultrabook,14.0,1920x1080,8,Windows,7,1.43kg,12884508.0,i7,6600U,2.6GHz,False,True,False
+30,1,notebook,14.0,1920x1080,8,Windows,10,1.64kg,9330019.92,i5,7200U,2.5GHz,False,True,False
+31,1,notebook,14.0,1366x768,4,Windows,10,1.64kg,6082128.0,i3,7100U,2.4GHz,False,True,False
+32,3,gaming,15.6,1920x1080,8,Windows,10,2.65kg,8438508.0,i5,7300HQ,2.5GHz,False,True,False
+33,1,ultrabook,12.5,1920x1080,4,Windows,10,1.26kg,13684788.0,i5,7200U,2.5GHz,False,True,False
+34,1,notebook,14.0,1920x1080,4,Windows,10,1.48kg,14138280.0,i5,7200U,2.5GHz,False,True,False
+35,1,ultrabook,14.0,1920x1080,8,Windows,10,1.54kg,16781071.32,i7,6500U,2.5GHz,False,True,False
+36,1,notebook,13.3,1366x768,4,Windows,10,1.49kg,7113600.0,i3,7100U,2.4GHz,False,True,False
+37,4,notebook,13.3,1366x768,8,Windows,10,1.5kg,10759320.0,i5,6200U,2.3GHz,False,True,False
+38,1,notebook,15.6,1366x768,4,Windows,10,2.04kg,6846751.08,i3,7100U,2.4GHz,False,True,False
+39,12,notebook,17.3,3840x2160,16,Windows,7,2.4kg,26391456.0,i7,6820HQ,2.7GHz,False,True,False
+40,4,notebook,14.0,1920x1080,8,Windows,10,1.47kg,13249080.0,i5,6200U,2.3GHz,False,True,False
+41,1,notebook,14.0,1920x1080,8,Windows,10,1.43kg,19820268.0,i7,6500U,2.5GHz,False,True,False
+42,3,2 in 1 convertible,15.6,1920x1080,4,Windows,10,2.08kg,7077943.08,i3,6100U,2.3GHz,False,True,False
+43,4,ultrabook,13.3,1920x1080,8,Windows,10,1.2kg,14138280.0,i5,6200U,2.3GHz,False,True,False
+44,1,notebook,13.3,1920x1080,8,Windows,10,1.11kg,10216908.0,i5,7200U,2.5GHz,False,True,False
+45,1,notebook,14.0,1920x1080,8,Windows,10,1.64kg,10540843.56,i7,7500U,2.7GHz,False,True,False
+46,3,notebook,15.6,1920x1080,8,Windows,10,2.09kg,9304944.48,i5,6300U,2.4GHz,False,True,False
+47,1,ultrabook,12.5,1366x768,4,Windows,10,1.26kg,13862628.0,i5,7200U,2.5GHz,False,True,False
+48,1,notebook,14.0,1366x768,4,Windows,10,2.31kg,10572588.0,i5,7200U,2.5GHz,False,True,False
+49,1,notebook,14.0,1366x768,4,Windows,10,1.95kg,9425520.0,i5,7200U,2.5GHz,False,True,False
+50,3,ultrabook,13.3,3200x1800,8,Windows,10,1.29kg,14440608.0,i5,7200U,2.5GHz,False,True,False
+51,1,notebook,17.3,1920x1080,8,Windows,10,2.63kg,9603360.0,i5,7200U,2.5GHz,False,True,False
+52,1,notebook,14.0,1366x768,4,Windows,10,1.64kg,8651916.0,i5,7200U,2.5GHz,False,True,False
+53,6,notebook,15.6,1366x768,6,Windows,10,2.1kg,3636828.0,A9-Series,9420,3GHz,True,False,False
+54,7,gaming,17.3,1920x1080,8,Windows,10,2.7kg,10597485.6,i7,7700HQ,2.8GHz,False,True,False
+55,1,notebook,14.0,1920x1080,8,Windows,7,1.95kg,10625940.0,i5,6200U,2.3GHz,False,True,False
+56,1,notebook,15.6,1920x1080,8,Windows,10,1.84kg,10928179.08,i7,6500U,2.5GHz,False,True,False
+57,1,ultrabook,12.5,1920x1080,8,Windows,10,1.26kg,11995308.0,i7,6500U,2.5GHz,False,True,False
+58,1,notebook,15.6,1366x768,4,Windows,10,2.04kg,6597864.0,i5,7200U,2.5GHz,False,True,False
+59,4,ultrabook,14.0,1920x1080,8,Windows,10,1.47kg,15338700.0,i7,6600U,2.6GHz,False,True,False
+60,3,notebook,15.6,1920x1080,8,Windows,7,2.09kg,9451751.4,i5,6300U,2.4GHz,False,True,False
+61,1,notebook,14.0,1920x1080,8,Windows,10,1.64kg,8985454.92,i5,7200U,2.5GHz,False,True,False
+62,12,2 in 1 convertible,15.6,1920x1080,4,Windows,10,1.8kg,7531524.0,i7,6500U,2.5GHz,False,True,False
+63,8,notebook,14.0,1366x768,2,Windows,10,1.45kg,1874433.6,Atom,X5-Z8350,1.44GHz,False,True,False
+64,4,notebook,15.6,1920x1080,16,Windows,10,2.4kg,12671100.0,i7,6500U,2.5GHz,False,True,False
+65,12,notebook,15.6,1920x1080,8,Windows,10,2.3kg,9333043.2,i5,6200U,2.3GHz,False,True,False
+66,1,notebook,14.0,1920x1080,4,Windows,10,1.54kg,8892000.0,i5,6200U,2.3GHz,False,True,False
+67,1,notebook,15.6,1920x1080,8,Windows,10,1.84kg,18702899.28,i5,6300U,2.4GHz,False,True,False
+68,1,notebook,14.0,1920x1080,8,Windows,7,1.43kg,13062348.0,i5,6200U,2.3GHz,False,True,False
+69,7,gaming,17.3,1920x1080,16,Windows,10,3.78kg,13743830.88,i7,6820HK,2.7GHz,False,True,False
+70,12,gaming,17.3,1920x1080,16,Windows,10,4.6kg,20362591.08,i7,6700HQ,2.6GHz,False,True,False
+71,2,netbook,11.6,1366x768,4,Chrome OS,,1.2kg,2560006.8,Core,N3060,1.6GHz,False,True,False
+72,12,notebook,14.0,2560x1440,16,Windows,7,1.1kg,23297040.0,i7,6600U,2.6GHz,False,True,False
+73,1,notebook,15.6,1920x1080,8,Windows,10,1.91kg,8705268.0,i7,7500U,2.7GHz,False,True,False
+74,3,2 in 1 convertible,15.6,1920x1080,8,Windows,10,2.3kg,9727848.0,i5,7200U,2.7GHz,False,True,False
+75,1,notebook,15.6,1366x768,4,Windows,10,2.04kg,8705268.0,i5,7200U,2.5GHz,False,True,False
+76,3,ultrabook,13.3,3200x1800,16,Windows,10,1.2kg,20042568.0,i7,7500U,2.7GHz,False,True,False
+77,1,notebook,15.6,1366x768,4,Windows,10,2.31kg,6270193.8,i3,6100U,2.3GHz,False,True,False
+78,1,notebook,15.6,1366x768,4,Windows,,1.96kg,4437108.0,i5,7200U,2.5GHz,False,True,False
+79,6,notebook,15.6,1366x768,8,Windows,10,2.4kg,3992508.0,A8-Series,7410,2.2GHz,True,False,False
+80,3,2 in 1 convertible,13.3,1920x1080,12,Windows,10,1.6kg,11550708.0,i7,7500U,2.7GHz,False,True,False
+81,7,gaming,15.6,1920x1080,16,Windows,10,2.94kg,16174548.0,i7,6700HQ,2.6GHz,False,True,False
+82,1,notebook,15.6,1920x1080,8,Windows,10,2.04kg,9514440.0,i7,7500U,2.7GHz,False,True,False
+83,2,gaming,17.3,1920x1080,16,Windows,,4kgs,8874216.0,i7,6700HQ,2.6GHz,False,True,False
+84,3,notebook,15.6,1920x1080,4,Windows,10,2.25kg,4970628.0,i5,7200U,2.5GHz,False,True,False
+85,3,notebook,15.6,1920x1080,16,Windows,10,2.32kg,8802991.08,i7,7500U,2.7GHz,False,True,False
+86,7,gaming,15.6,1920x1080,16,Windows,10,1.8kg,17152668.0,i7,6700HQ,2.6GHz,False,True,False
+87,3,ultrabook,13.3,1920x1080,8,Windows,10,1.29kg,12964536.0,i7,7500U,2.7GHz,False,True,False
+88,2,gaming,17.3,1920x1080,64,Windows,10,3.58kg,35345700.0,i7,6820HK,2.7GHz,False,True,False
+89,3,2 in 1 convertible,13.3,1920x1080,8,Windows,10,1.62kg,7095904.92,i7,6500U,2.5GHz,False,True,False
+90,3,gaming,15.6,3840x2160,16,Windows,10,3.21kg,11817468.0,i7,6700HQ,2.6GHz,False,True,False
+91,9,ultrabook,12.0,2304x1440,8,Mac OS,X,0.920kg,11559600.0,Core,M,1.1GHz,False,True,False
+92,3,notebook,15.6,1366x768,4,Windows,10,2.06kg,4285766.16,i3,6100U,2.3GHz,False,True,False
+93,1,notebook,15.6,1366x768,4,Windows,10,2.31kg,10661508.0,i5,6200U,2.3GHz,False,True,False
+94,1,ultrabook,12.5,1920x1080,8,Windows,7,1.26kg,10661508.0,i5,6200U,2.3GHz,False,True,False
+95,1,notebook,13.3,1920x1080,8,Windows,10,1.49kg,9692280.0,i7,7500U,2.7GHz,False,True,False
+96,12,ultrabook,12.5,1920x1080,8,Windows,10,1.3kg,15236353.08,i7,6500U,2.5GHz,False,True,False
+97,12,notebook,17.3,1600x900,8,Windows,10,3.0kg,5859828.0,i5,6200U,2.3GHz,False,True,False
+98,12,notebook,15.6,1920x1080,4,Windows,10,2.3kg,8687484.0,i5,6300HQ,2.3GHz,False,True,False
+99,7,gaming,17.3,1920x1080,16,Windows,10,3.78kg,22221108.0,i7,7700HQ,2.8GHz,False,True,False
+100,12,notebook,15.6,1366x768,4,Windows,10,2.1kg,4801680.0,i5,6200U,2.3GHz,False,True,False
+101,1,notebook,15.6,1920x1080,4,Windows,7,2.31kg,8358480.0,i5,6200U,2.3GHz,False,True,False
+102,12,ultrabook,12.5,2560x1440,8,Windows,10,0.99kg,12439908.0,M,6Y75,1.2GHz,False,True,False
+103,12,gaming,17.3,1920x1080,32,Windows,10,4.6kg,28810080.0,i7,6820HK,2.7GHz,False,True,False
+104,12,2 in 1 convertible,10.1,1920x1200,4,Windows,10,0.69kg,5746632.84,Atom,x5-Z8550,1.44GHz,False,True,False
+105,1,ultrabook,13.3,3840x2160,16,Windows,10,1.3kg,18219708.0,i7,7500U,2.7GHz,False,True,False
+106,3,notebook,15.6,1920x1080,8,Windows,10,2.18kg,6669000.0,i5,7200U,2.5GHz,False,True,False
+107,1,notebook,14.0,1920x1080,4,Windows,7,1.54kg,9167563.08,i5,6200U,2.3GHz,False,True,False
+108,1,workstation,15.6,1920x1080,8,Windows,7,1.9kg,13293540.0,i7,6500U,2.5GHz,False,True,False
+109,12,notebook,14.0,1920x1080,8,Windows,7,1.7kg,10661508.0,i5,6200U,2.3GHz,False,True,False
+110,1,notebook,13.3,3200x1800,4,Chrome OS,,1.29kg,5468580.0,Core,4405Y,1.5GHz,False,True,False
+111,6,notebook,15.6,1366x768,4,Windows,10,2.4kg,3441204.0,A8-Series,7410,2.2GHz,True,False,False
+112,3,notebook,15.6,1366x768,4,Linux,,2.2kg,3498913.08,Core,N3700,1.6GHz,False,True,False
+113,1,notebook,15.6,1366x768,4,Windows,,1.86kg,3076543.08,i3,6006U,2GHz,False,True,False
+114,2,gaming,17.3,1920x1080,8,Windows,10,2.7kg,14218308.0,i7,7700HQ,2.8GHz,False,True,False
+115,3,ultrabook,13.3,1920x1080,4,Windows,10,1.4kg,7276768.2,i5,8250U,1.6GHz,False,True,False
+116,1,netbook,12.5,1366x768,4,Windows,7,2.4kg,14218308.0,i5,6200U,2.3GHz,False,True,False
+117,6,notebook,15.6,1920x1080,8,Windows,10,2.4kg,7104708.0,i5,7200U,2.5GHz,False,True,False
+118,3,notebook,15.6,1920x1080,8,Windows,10,2.36kg,5680209.6,i5,7200U,2.5GHz,False,True,False
+119,7,gaming,17.3,1920x1080,8,Windows,10,2.6kg,14218308.0,i7,6700HQ,2.6GHz,False,True,False
+120,1,notebook,15.6,1366x768,4,Windows,10,1.96kg,4446000.0,Core,N3710,1.6GHz,False,True,False
+121,2,gaming,17.3,1920x1080,16,Windows,10,4.3kg,20442708.0,i7,6700HQ,2.6GHz,False,True,False
+122,3,ultrabook,12.5,1366x768,4,Windows,7,1.5kg,10093753.8,i3,6100U,2.3GHz,False,True,False
+123,3,ultrabook,12.5,1366x768,4,Windows,7,1.5kg,10376697.24,i3,6100U,2.3GHz,False,True,False
+124,6,notebook,15.6,1366x768,4,Chrome OS,,2.20kg,1858428.0,Core,3205U,1.5GHz,False,True,False
+125,1,workstation,17.3,1920x1080,8,Windows,7,3.0kg,25777908.0,i7,6700HQ,2.6GHz,False,True,False
+126,12,gaming,15.6,1920x1080,16,Windows,10,2.4kg,10661508.0,i7,7700HQ,2.8GHz,False,True,False
+127,3,ultrabook,12.5,1366x768,8,Windows,7,1.5kg,12565285.2,i5,6200U,2.3GHz,False,True,False
+128,7,gaming,17.3,1920x1080,8,Windows,10,2.9kg,13437501.48,i7,6700HQ,2.6GHz,False,True,False
+129,12,2 in 1 convertible,15.6,1920x1080,4,Windows,10,2.1kg,7709364.0,i5,6200U,2.3GHz,False,True,False
+130,1,notebook,15.6,1920x1080,4,Windows,10,2.1kg,3539016.0,A6-Series,9220,2.5GHz,True,False,False
+131,2,gaming,15.6,1920x1080,16,Windows,10,2.59kg,11906388.0,i7,6700HQ,2.6GHz,False,True,False
+132,1,notebook,13.3,3200x1800,8,Windows,10,1.16kg,15107508.0,M,6Y54,1.1GHz,False,True,False
+133,3,notebook,15.6,1366x768,4,Windows,7,2.24kg,6839281.8,i5,6200U,2.3GHz,False,True,False
+134,12,notebook,15.6,1366x768,4,Windows,10,2.1kg,3814668.0,i3,6006U,2.0GHz,False,True,False
+135,1,ultrabook,13.3,1920x1080,8,Windows,10,1.16kg,17508348.0,i7,6500U,2.5GHz,False,True,False
+136,12,2 in 1 convertible,10.1,1920x1200,4,Android,,0.69kg,4881708.0,Atom,x5-Z8550,1.44GHz,False,True,False
+137,3,ultrabook,13.3,1920x1080,8,Windows,10,1.23kg,12262068.0,i7,7560U,2.4GHz,False,True,False
+138,12,gaming,17.3,1920x1080,16,Windows,10,4.6kg,24452911.08,i7,6820HK,2.7GHz,False,True,False
+139,10,ultrabook,12.5,3840x2160,8,Windows,10,1.25kg,9149868.0,i7,6500U,2.5GHz,False,True,False
+140,4,ultrabook,13.3,1920x1080,16,Windows,10,1.05kg,19793592.0,i7,7500U,2.7GHz,False,True,False
+141,2,gaming,17.3,1920x1080,8,Windows,10,3.52kg,11670661.08,i7,6700HQ,2.6GHz,False,True,False
+142,8,notebook,13.3,1920x1080,4,Windows,10,1.35kg,1742832.0,Atom,X5-Z8350,1.44GHz,False,True,False
+143,1,notebook,13.3,1920x1080,8,Windows,10,1.16kg,15027480.0,i5,6200U,2.3GHz,False,True,False
+144,1,notebook,14.0,1920x1080,8,Windows,7,1.43kg,13453596.0,i5,6200U,2.3GHz,False,True,False
+145,3,notebook,15.6,1366x768,4,Linux,,2.09kg,4656117.96,i5,6200U,2.3GHz,False,True,False
+146,2,notebook,15.6,1366x768,4,Windows,10,2kg,3868020.0,i3,7100U,2.4GHz,False,True,False
+147,12,2 in 1 convertible,14.0,1920x1080,8,Windows,10,1.8kg,14840748.0,i7,6500U,2.5GHz,False,True,False
+148,12,2 in 1 convertible,10.1,1920x1200,4,Windows,10,0.69kg,4259268.0,Atom,x5-Z8550,1.44GHz,False,True,False
+149,1,ultrabook,12.5,1366x768,8,Windows,7,1.26kg,16850340.0,i5,6300U,2.4GHz,False,True,False
+150,12,gaming,15.6,1920x1080,8,Windows,,2.4kg,8794188.0,i5,7300HQ,2.5GHz,False,True,False
+151,1,gaming,17.3,1920x1080,8,Windows,10,3.35kg,10039068.0,i5,6300HQ,2.3GHz,False,True,False
+152,1,notebook,15.6,1366x768,8,Windows,10,2.04kg,5593068.0,i7,7500U,2.7GHz,False,True,False
+153,12,2 in 1 convertible,14.0,1920x1080,8,Windows,7,1.8kg,18231978.96,i7,6600U,2.6GHz,False,True,False
+154,2,notebook,14.0,1366x768,4,Windows,10,1.5kg,2471976.0,Core,N3350,1.1GHz,False,True,False
+155,1,ultrabook,15.6,1920x1080,8,Windows,10,1.84kg,6686784.0,i7,7500U,2.7GHz,False,True,False
+156,6,notebook,15.6,1920x1080,4,Windows,10,2.23kg,5477472.0,i5,7200U,2.5GHz,False,True,False
+157,12,notebook,15.6,1920x1080,16,Windows,10,2.5kg,9772308.0,i7,6500U,2.5GHz,False,True,False
+158,1,workstation,17.3,1920x1080,8,Windows,7,3kg,35118064.8,i7,6700HQ,2.6GHz,False,True,False
+159,3,notebook,15.6,1366x768,8,Windows,10,2.5kg,6971328.0,i5,7200U,2.5GHz,False,True,False
+160,7,gaming,17.3,1920x1080,16,Windows,10,3.78kg,21331908.0,i7,6820HQ,2.7GHz,False,True,False
+161,1,ultrabook,15.6,1920x1080,8,Windows,7,1.88kg,19310934.24,i7,6500U,2.5GHz,False,True,False
+162,12,2 in 1 convertible,14.0,2560x1440,16,Windows,10,2.8kg,21696480.0,i7,6600U,2.6GHz,False,True,False
+163,7,gaming,15.6,1920x1080,8,Windows,10,2.4kg,10161777.6,i7,7700HQ,2.8GHz,False,True,False
+164,1,2 in 1 convertible,13.3,1920x1080,8,Windows,10,1.48kg,14485068.0,i5,6300U,2.4GHz,False,True,False
+165,1,workstation,15.6,1920x1080,8,Windows,7,2.59kg,19820268.0,i7,6700HQ,2.6GHz,False,True,False
+166,1,2 in 1 convertible,13.3,2560x1440,8,Windows,10,1.48kg,15996708.0,i7,6600U,2.6GHz,False,True,False
+167,1,workstation,15.6,1920x1080,8,Windows,7,2.0kg,16885908.0,i7,6700HQ,2.6GHz,False,True,False
+168,1,ultrabook,12.5,1920x1080,8,Windows,7,1.26kg,20424479.4,i7,6500U,2.50GHz,False,True,False
+169,3,notebook,15.6,1920x1080,8,Windows,10,2.18kg,8980030.8,i7,7500U,2.7GHz,False,True,False
+170,1,notebook,15.6,1920x1080,8,Windows,7,1.88kg,14040468.0,i5,6200U,2.3GHz,False,True,False
+171,12,2 in 1 convertible,14.0,2560x1440,8,Windows,10,1.27kg,20798388.0,i7,6500U,2.5GHz,False,True,False
+172,12,notebook,15.6,1366x768,4,Windows,,1.9kg,3014388.0,i3,6006U,2.0GHz,False,True,False
+173,1,notebook,15.6,1366x768,4,Windows,10,1.86kg,2640924.0,E-Series,7110,1.8GHz,True,False,False
+174,12,notebook,15.6,1920x1080,8,Windows,,2.32kg,5326308.0,i5,6200U,2.3GHz,False,True,False
+175,3,gaming,15.6,1920x1080,8,Windows,10,2.62kg,10661508.0,i7,7700HQ,2.8GHz,False,True,False
+176,3,notebook,15.6,3840x2160,8,Windows,10,2.04kg,20013046.56,i5,6300HQ,2.3GHz,False,True,False
+177,1,notebook,15.6,1920x1080,4,Windows,10,1.91kg,4258289.88,A6-Series,A6-9220,2.5GHz,True,False,False
+178,7,gaming,17.3,1920x1080,16,Windows,10,2.7kg,13273977.6,i7,7700HQ,2.8GHz,False,True,False
+179,12,ultrabook,14.0,1920x1080,12,Windows,7,1.4kg,20442708.0,i7,6600U,2.6GHz,False,True,False
+180,12,notebook,15.6,1920x1080,8,Windows,10,2.5kg,7011253.08,i5,6200U,2.3GHz,False,True,False
+181,1,2 in 1 convertible,13.3,2560x1440,8,Windows,10,1.48kg,18148572.0,i7,6600U,2.6GHz,False,True,False
+182,12,ultrabook,14.0,1920x1080,8,Windows,7,1.7kg,13329108.0,i7,6600U,2.6GHz,False,True,False
+183,7,gaming,14.0,1920x1080,16,Windows,10,1.7kg,15729948.0,i7,6700HQ,2.6GHz,False,True,False
+184,1,gaming,15.6,1920x1080,8,Windows,10,2.62kg,7993908.0,i7,7700HQ,2.8GHz,False,True,False
+185,12,notebook,15.6,1366x768,8,Windows,10,2.2kg,4081428.0,i3,6006U,2.0GHz,False,True,False
+186,1,notebook,15.6,1366x768,4,Windows,,2.1kg,4241395.08,i5,6200U,2.3GHz,False,True,False
+187,3,gaming,15.6,3840x2160,8,Windows,10,2.62kg,13320216.0,i7,7700HQ,2.8GHz,False,True,False
+188,12,notebook,15.6,1920x1080,8,Windows,10,1.95kg,12359880.0,i5,7200U,2.5GHz,False,True,False
+189,12,notebook,15.6,1920x1080,4,Windows,10,2.2kg,4161456.0,i3,6006U,2GHz,False,True,False
+190,1,notebook,14.0,1366x768,2,Windows,10,1.44kg,2214108.0,Core,N3060,1.6GHz,False,True,False
+191,7,gaming,15.6,1920x1080,8,Windows,10,2.2kg,7460388.0,i7,7500U,2.7GHz,False,True,False
+192,1,notebook,15.6,1920x1080,8,Windows,10,1.96kg,6037668.0,i7,6500U,2.5GHz,False,True,False
+193,1,notebook,15.6,1920x1080,16,Windows,10,2.1kg,10305828.0,i7,8550U,1.8GHz,False,True,False
+194,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,3281148.0,Core,N3050,1.6GHz,False,True,False
+195,12,notebook,15.6,1366x768,4,Windows,,2.1kg,3539016.0,i5,6200U,2.3GHz,False,True,False
+196,12,notebook,15.6,1920x1080,8,Windows,,2.2kg,6304428.0,i7,7500U,2.7GHz,False,True,False
+197,2,notebook,14.0,1920x1080,4,Windows,10,2kg,6837948.0,i3,7100U,2.4GHz,False,True,False
+198,12,notebook,15.6,1920x1080,4,Windows,7,2.32kg,7335900.0,i7,6500U,2.5GHz,False,True,False
+199,12,gaming,15.6,1920x1080,16,Windows,10,3.31kg,11604060.0,i7,6700HQ,2.6GHz,False,True,False
+200,7,gaming,15.6,1920x1080,16,Windows,10,1.91kg,19147766.04,i7,6700HQ,2.6GHz,False,True,False
+201,1,notebook,15.6,1366x768,4,Windows,10,2.07kg,5779800.0,i3,6100U,2.3GHz,False,True,False
+202,12,2 in 1 convertible,14.0,2560x1440,8,Windows,10,1.36kg,14556204.0,i5,6200U,2.3GHz,False,True,False
+203,12,ultrabook,15.6,1920x1080,6,Windows,10,1.54kg,7389252.0,i7,7500U,2.7GHz,False,True,False
+204,3,notebook,15.6,1920x1080,8,Linux,,1.98kg,7958428.92,i7,7500U,2.7GHz,False,True,False
+205,6,notebook,15.6,1366x768,4,Windows,10,2.1kg,2961036.0,Core,N3350,2GHz,False,True,False
+206,1,notebook,15.6,1920x1080,6,Windows,10,2.18kg,7104708.0,i7,6700HQ,2.6GHz,False,True,False
+207,2,gaming,15.6,1920x1080,8,Windows,10,2.591kg,8082828.0,i7,6700HQ,2.6GHz,False,True,False
+208,3,2 in 1 convertible,15.6,1920x1080,16,Windows,10,2.09kg,10483668.0,i7,7500U,2.7GHz,False,True,False
+209,6,notebook,15.6,1920x1080,4,Windows,10,2.23kg,6144372.0,i5,7200U,2.5GHz,False,True,False
+210,3,ultrabook,13.3,3200x1800,8,Linux,,1.23kg,9772308.0,i5,6300U,2.4GHz,False,True,False
+211,6,gaming,17.3,1920x1080,16,Windows,10,4.2kg,23110308.0,i7,7700HQ,2.8GHz,False,True,False
+212,12,gaming,15.6,1920x1080,8,Windows,10,2.4kg,7282548.0,i5,7300HQ,2.5GHz,False,True,False
+213,11,2 in 1 convertible,12.3,2400x1600,4,Chrome OS,,1.15kg,5859828.0,Cortex,A72&A53,2.0GHz,False,False,True
+214,1,notebook,15.6,1366x768,4,Windows,10,1.86kg,4312620.0,i5,7200U,2.5GHz,False,True,False
+215,9,ultrabook,12.0,2304x1440,8,Mac OS,X,0.920kg,10341396.0,Core,M,1.1GHz,False,True,False
+216,3,2 in 1 convertible,13.3,1920x1080,8,Windows,10,1.6kg,10661508.0,i5,7200U,2.5GHz,False,True,False
+217,1,notebook,15.6,1920x1080,12,Windows,10,2.21kg,11799684.0,i7,7700HQ,2.8GHz,False,True,False
+218,12,notebook,15.6,1366x768,4,Windows,,1.9kg,3272256.0,i3,6006U,2GHz,False,True,False
+219,2,gaming,17.3,1920x1080,16,Windows,10,4.3kg,19117800.0,i7,6700HQ,2.6GHz,False,True,False
+220,6,notebook,15.6,1366x768,4,Linux,,2.1kg,2418624.0,Core,N3350,2GHz,False,True,False
+221,7,gaming,17.3,1920x1080,16,Windows,10,2.43kg,18218818.8,i7,7700HQ,2.8GHz,False,True,False
+222,3,notebook,15.6,1366x768,4,Windows,10,2.3kg,4437108.0,i3,6006U,2.0GHz,False,True,False
+223,12,notebook,15.6,1366x768,8,Windows,,2.2kg,5593068.0,i7,6500U,2.5GHz,False,True,False
+224,3,2 in 1 convertible,15.6,1920x1080,16,Windows,10,2kg,11426220.0,i7,8550U,1.8GHz,False,True,False
+225,3,ultrabook,13.3,3200x1800,16,Windows,10,1.2kg,23830560.0,i7,7500U,2.7GHz,False,True,False
+226,2,gaming,15.6,1920x1080,8,Windows,10,2.2kg,10394748.0,i7,6700HQ,2.6GHz,False,True,False
+227,3,notebook,15.6,1920x1080,8,Windows,10,2.36kg,7904988.0,i5,7200U,2.5GHz,False,True,False
+228,1,notebook,15.6,1366x768,8,Windows,10,1.91kg,5148468.0,i5,7200U,2.5GHz,False,True,False
+229,12,notebook,15.6,1366x768,4,Windows,10,2.2kg,2658708.0,E-Series,9000,2.2GHz,True,False,False
+230,6,notebook,17.3,1600x900,8,Windows,10,3.3kg,5593068.0,i3,6006U,2.0GHz,False,True,False
+231,2,gaming,15.6,1920x1080,16,Windows,10,2.2kg,21776508.0,i7,7700HQ,2.8GHz,False,True,False
+232,9,ultrabook,12.0,2304x1440,8,Mac OS,X,0.920kg,11372868.0,Core,M,1.2GHz,False,True,False
+233,2,notebook,15.6,1920x1080,16,Windows,10,2.2kg,15552108.0,i7,7700HQ,2.8GHz,False,True,False
+234,7,gaming,17.3,1920x1080,16,Windows,10,2.43kg,17330419.08,i7,6700HQ,2.6GHz,False,True,False
+235,3,2 in 1 convertible,15.6,1920x1080,8,Windows,10,2.191kg,8883108.0,i5,7200U,2.5GHz,False,True,False
+236,2,gaming,17.3,1920x1080,16,Windows,10,2.9kg,17330508.0,i7,7700HQ,2.8GHz,False,True,False
+237,6,netbook,11.6,1366x768,2,Chrome OS,,1.3kg,1547208.0,Core,3205U,1.5GHz,False,True,False
+238,6,notebook,17.3,1600x900,4,Windows,10,3.3kg,5317416.0,i3,6006U,2GHz,False,True,False
+239,12,notebook,17.3,1600x900,8,Windows,,2.8kg,4792788.0,i5,7200U,2.5GHz,False,True,False
+240,12,gaming,15.6,1920x1080,8,Windows,10,2.6kg,11310624.0,i7,6700HQ,2.6GHz,False,True,False
+241,6,2 in 1 convertible,14.0,1920x1080,8,Windows,10,1.2kg,10216908.0,i7,7Y75,1.3GHz,False,True,False
+242,12,notebook,15.6,1920x1080,8,Windows,10,2.3kg,13595868.0,i7,6600U,2.6GHz,False,True,False
+243,7,gaming,15.6,1920x1080,8,Windows,10,2.2kg,13125570.12,i7,6700HQ,2.6GHz,False,True,False
+244,1,notebook,15.6,1920x1080,6,Windows,10,2.1kg,4703868.0,A12-Series,9720P,2.7GHz,True,False,False
+245,3,ultrabook,12.5,1920x1080,8,Windows,7,1.26kg,15235286.04,i5,6300U,2.4GHz,False,True,False
+246,3,2 in 1 convertible,15.0,1920x1080,4,Windows,10,2.08kg,4526028.0,i3,7100U,2.4GHz,False,True,False
+247,2,notebook,15.6,1366x768,4,Windows,10,2.65kg,2747628.0,Core,N3710,1.6GHz,False,True,False
+248,3,ultrabook,13.3,3200x1800,8,Windows,10,1.29kg,13133484.0,i7,7500U,2.7GHz,False,True,False
+249,3,notebook,15.6,1366x768,4,Linux,,2.18kg,4640379.12,i5,7200U,2.5GHz,False,True,False
+250,12,gaming,15.6,1920x1080,16,Windows,10,2.6kg,9149868.0,i7,6700HQ,2.6GHz,False,True,False
+251,7,gaming,15.6,1920x1080,8,Windows,10,2.2kg,10216908.0,i7,7700HQ,2.8GHz,False,True,False
+252,12,netbook,12.5,1920x1080,16,Windows,10,1.3kg,14671800.0,i7,6500U,2.50GHz,False,True,False
+253,10,gaming,14.0,1920x1080,16,Windows,10,1.95kg,31113108.0,i7,7700HQ,2.8GHz,False,True,False
+254,3,notebook,15.6,1366x768,8,Windows,10,2.3kg,4170436.92,i3,7100U,2.4GHz,False,True,False
+255,7,gaming,17.3,1920x1080,16,Windows,10,2.7kg,14209416.0,i7,7700HQ,2.8GHz,False,True,False
+256,9,ultrabook,11.6,1366x768,4,Mac OS,X,1.08kg,8527428.0,Core,i5,1.6GHz,False,True,False
+257,1,notebook,15.6,1920x1080,4,Windows,10,2.1kg,4250376.0,i3,6006U,2GHz,False,True,False
+258,1,ultrabook,14.0,2560x1440,8,Windows,7,1.54kg,19546305.48,i7,6500U,2.5GHz,False,True,False
+259,3,notebook,15.6,1366x768,4,Windows,7,2.24kg,6553404.0,i5,6200U,2.3GHz,False,True,False
+260,7,gaming,15.6,1920x1080,8,Windows,10,2.3kg,10394748.0,i7,6700HQ,2.6GHz,False,True,False
+261,12,notebook,13.3,1920x1080,16,Windows,10,1.4kg,13329108.0,i7,7500U,2.7GHz,False,True,False
+262,12,notebook,15.6,1920x1080,6,Windows,10,2.2kg,5313592.44,A12-Series,9720P,3.6GHz,True,False,False
+263,2,ultrabook,13.3,1920x1080,8,Windows,10,1.45kg,11381760.0,i7,6500U,2.5GHz,False,True,False
+264,6,notebook,15.6,1366x768,4,Linux,,2.4kg,3217125.6,i3,6006U,2.0GHz,False,True,False
+265,3,2 in 1 convertible,17.3,1920x1080,16,Windows,10,2.77kg,15996708.0,i7,7500U,2.7GHz,False,True,False
+266,1,notebook,14.0,1920x1080,4,Windows,7,1.54kg,9781111.08,i5,6200U,2.3GHz,False,True,False
+267,2,gaming,15.6,1920x1080,16,Windows,10,2.5kg,14227200.0,i7,7700HQ,2.8GHz,False,True,False
+268,3,notebook,14.0,1366x768,4,Windows,10,1.6kg,7780500.0,i5,7200U,2.5GHz,False,True,False
+269,2,gaming,15.6,1920x1080,16,Windows,10,2.34kg,20673900.0,i7,6700HQ,2.6GHz,False,True,False
+270,12,notebook,15.6,1920x1080,8,Windows,,2.3kg,5095116.0,i5,7200U,2.5GHz,False,True,False
+271,3,2 in 1 convertible,13.3,3200x1800,8,Windows,10,1.24kg,16121196.0,i5,7Y54,1.2GHz,False,True,False
+272,3,notebook,15.6,1366x768,4,Linux,,2.2kg,2881008.0,Core,N3710,1.6GHz,False,True,False
+273,1,notebook,15.6,1366x768,4,Windows,10,1.86kg,3547908.0,A6-Series,9220,2.5GHz,True,False,False
+274,12,notebook,15.6,1920x1080,6,Windows,10,2.4kg,5059548.0,i3,6100U,2.3GHz,False,True,False
+275,12,notebook,14.0,1920x1080,8,Windows,10,1.9kg,9532224.0,i5,6200U,2.3GHz,False,True,False
+276,3,notebook,15.6,1366x768,4,Windows,10,2.2kg,3947959.08,Core,N3700,1.6GHz,False,True,False
+277,2,notebook,15.6,1366x768,4,Windows,10,2kg,3014388.0,Core,N3350,1.1GHz,False,True,False
+278,2,gaming,17.3,1920x1080,16,Windows,10,4.0kg,16894800.0,i7,6700HQ,2.6GHz,False,True,False
+279,3,notebook,15.6,1366x768,4,Windows,10,2.29kg,4357080.0,i3,6006U,2GHz,False,True,False
+280,12,notebook,15.6,1920x1080,8,Windows,7,2.32kg,7958340.0,i7,6500U,2.5GHz,False,True,False
+281,7,gaming,15.6,1920x1080,8,Windows,10,2.4kg,10928268.0,i7,6700HQ,2.6GHz,False,True,False
+282,12,2 in 1 convertible,14.0,1920x1080,4,Windows,10,1.8kg,7407124.92,i5,6200U,2.3GHz,False,True,False
+283,2,ultrabook,13.3,1920x1080,8,Windows,10,1.2kg,6482268.0,M,6Y30,0.9GHz,False,True,False
+284,3,notebook,15.6,1366x768,6,Windows,10,2.3kg,4081428.0,i3,7100U,2.4GHz,False,True,False
+285,6,notebook,15.6,1366x768,4,Linux,,2.4kg,2569788.0,Core,N3060,1.6GHz,False,True,False
+286,3,notebook,15.6,1366x768,2,Windows,10,2.20kg,3370068.0,Core,N3050,1.6GHz,False,True,False
+287,12,notebook,15.6,1920x1080,8,Windows,10,2.6kg,7993908.0,i7,6700HQ,2.6GHz,False,True,False
+288,1,notebook,15.6,1920x1080,6,Windows,10,2.04kg,4890511.08,A9-Series,9410,2.9GHz,True,False,False
+289,3,notebook,15.6,1366x768,8,Linux,,2.3kg,7166863.08,i7,7500U,2.7GHz,False,True,False
+290,1,netbook,11.6,1366x768,2,Windows,10,1.17kg,1858428.0,Core,N3060,1.6GHz,False,True,False
+291,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,6405085.44,i7,6500U,2.5GHz,False,True,False
+292,12,2 in 1 convertible,14.0,1920x1080,4,Windows,10,1.8kg,5673096.0,i7,6500U,2.5GHz,False,True,False
+293,12,2 in 1 convertible,13.3,3200x1800,16,Windows,10,1.3kg,13329108.0,i7,6500U,2.5GHz,False,True,False
+294,12,notebook,14.0,1366x768,2,Windows,10,1.5kg,2036268.0,Core,N3050,1.6GHz,False,True,False
+295,1,notebook,15.6,1366x768,6,Windows,10,2.19kg,6793488.0,i7,6500U,2.5GHz,False,True,False
+296,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,3281148.0,Core,N3050,1.6GHz,False,True,False
+297,2,ultrabook,13.3,1920x1080,8,Windows,10,1.2kg,6482268.0,M,6Y30,0.9GHz,False,True,False
+298,3,notebook,15.6,1366x768,6,Windows,10,2.3kg,4081428.0,i3,7100U,2.4GHz,False,True,False
+299,6,notebook,15.6,1366x768,4,Linux,,2.4kg,2569788.0,Core,N3060,1.6GHz,False,True,False
+300,3,notebook,15.6,1366x768,2,Windows,10,2.20kg,3370068.0,Core,N3050,1.6GHz,False,True,False
+301,12,notebook,15.6,1920x1080,8,Windows,10,2.6kg,7993908.0,i7,6700HQ,2.6GHz,False,True,False
+302,1,notebook,15.6,1920x1080,6,Windows,10,2.04kg,4890511.08,A9-Series,9410,2.9GHz,True,False,False
+303,3,notebook,15.6,1366x768,8,Linux,,2.3kg,7166863.08,i7,7500U,2.7GHz,False,True,False
+304,1,netbook,11.6,1366x768,2,Windows,10,1.17kg,1858428.0,Core,N3060,1.6GHz,False,True,False
+305,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,6405085.44,i7,6500U,2.5GHz,False,True,False
+306,12,2 in 1 convertible,14.0,1920x1080,4,Windows,10,1.8kg,5673096.0,i7,6500U,2.5GHz,False,True,False
+307,12,2 in 1 convertible,13.3,3200x1800,16,Windows,10,1.3kg,13329108.0,i7,6500U,2.5GHz,False,True,False
+308,12,notebook,14.0,1366x768,2,Windows,10,1.5kg,2036268.0,Core,N3050,1.6GHz,False,True,False
+309,1,notebook,15.6,1366x768,6,Windows,10,2.19kg,6793488.0,i7,6500U,2.5GHz,False,True,False
+310,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,3281148.0,Core,N3050,1.6GHz,False,True,False
+311,2,ultrabook,13.3,1920x1080,8,Windows,10,1.2kg,6482268.0,M,6Y30,0.9GHz,False,True,False
+312,3,notebook,15.6,1366x768,6,Windows,10,2.3kg,4081428.0,i3,7100U,2.4GHz,False,True,False
+313,6,notebook,15.6,1366x768,4,Linux,,2.4kg,2569788.0,Core,N3060,1.6GHz,False,True,False
+314,3,notebook,15.6,1366x768,2,Windows,10,2.20kg,3370068.0,Core,N3050,1.6GHz,False,True,False
+315,12,notebook,15.6,1920x1080,8,Windows,10,2.6kg,7993908.0,i7,6700HQ,2.6GHz,False,True,False
+316,1,notebook,15.6,1920x1080,6,Windows,10,2.04kg,4890511.08,A9-Series,9410,2.9GHz,True,False,False
+317,3,notebook,15.6,1366x768,8,Linux,,2.3kg,7166863.08,i7,7500U,2.7GHz,False,True,False
+318,1,netbook,11.6,1366x768,2,Windows,10,1.17kg,1858428.0,Core,N3060,1.6GHz,False,True,False
+319,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,6405085.44,i7,6500U,2.5GHz,False,True,False
+320,12,2 in 1 convertible,14.0,1920x1080,4,Windows,10,1.8kg,5673096.0,i7,6500U,2.5GHz,False,True,False
+321,12,2 in 1 convertible,13.3,3200x1800,16,Windows,10,1.3kg,13329108.0,i7,6500U,2.5GHz,False,True,False
+322,12,notebook,14.0,1366x768,2,Windows,10,1.5kg,2036268.0,Core,N3050,1.6GHz,False,True,False
+323,1,notebook,15.6,1366x768,6,Windows,10,2.19kg,6793488.0,i7,6500U,2.5GHz,False,True,False
+324,2,notebook,15.6,1366x768,4,Windows,10,2.2kg,3281148.0,Core,N3050,1.6GHz,False,True,False
