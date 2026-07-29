@@ -1,6 +1,5 @@
-~$*.pptx
-~$*.docx
-~$*.xlsx
+*.pptx
+*.docx
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
