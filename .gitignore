@@ -1,0 +1,6 @@
+~$*.pptx
+~$*.docx
+~$*.xlsx
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
