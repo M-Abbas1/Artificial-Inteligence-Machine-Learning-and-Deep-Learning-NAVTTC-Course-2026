@@ -1,5 +1,4 @@
 *.pptx
-*.docx
 *.pdf
 .vscode/*
 !.vscode/settings.json
