@@ -1,4 +1,81 @@
-# GRU Worked Example: “Sara was happy because she won”
+# 1. Why do we need RNNs?
+
+Traditional neural networks treat each input independently.
+But many real-world problems involve sequences, where previous information matters.
+
+**RNNs are designed to:**
+
+- 🧠 Remember information from previous inputs
+- 🔗 Understand relationships between sequence elements
+- ⏳ Process data step-by-step over time
+
+**Examples:**
+
+- 📝 Text → previous words help predict the next word
+- 🎤 Speech → previous sounds help understand the current sound
+- 🎥 Video → previous frames help understand the current frame
+
+Key idea: RNNs add memory to neural networks so they can work with sequential data.
+
+![ANN vs RNN vs CNN](images/ann_vs_rnn_vs_cnn.jpg)
+
+**Sequence Data:**
+
+![sequence data](images/sequence_data.jpg)
+
+## 2. Applications of RNNs
+
+![Application](images/rnn_application_2.webp)
+![Application](images/rnn_application_3.png)
+![Application](images/application_rnn4.jpg)
+
+## 4. RNN problem: vanishing/exploding gradients
+
+![vanishing exploding gradients](images/rnn_vanishing.jpg)
+
+## 3. RNNs vs LSTMs vs GRU
+
+![rnn vs lstm vs gru](images/rnn_lstm_gru2.jpg)
+![rnn vs lstm vs gru](images/rnn-lstm-gru.png)
+
+---
+
+## 1. Gated Recurrent Unit Networks
+
+> Gated Recurrent Unit (GRU) is a type of recurrent neural network designed for sequential data while reducing the complexity of traditional RNNs. GRUs are a simplified version of LSTMs that use update and reset gates to learn long term dependencies efficiently.
+
+- Simplified alternative to LSTM
+- Uses update and reset gates for information flow control
+- Learns long-term dependencies with fewer parameters
+- Handles sequence and time-series data effectively
+- Widely used in NLP, speech processing and forecasting tasks
+
+![gru introduction](images/gru1.webp)
+![gru introduction](images/gru2.webp)
+
+## 2. Why GRU
+
+![why gru](images/Why-Use-GRUs.webp)
+
+## 3. GRU vs LSTM
+
+![gru vs lstm](images/gru_vs_lstm.webp)
+
+## 4. GRU Terminologies
+
+![gru complete cell](images/gru_complete.png)
+
+## 5. Reset Gate
+
+![reset gate](images/reset_gate_gru.png)
+
+## 6. Update Gate
+
+![Update gate](images/update_gate_gru.png)
+
+
+
+## GRU Worked Example: “Sara was happy because she won”
 
 > **Teaching goal:** Understand how a GRU processes a sentence one word at a time, uses the **Reset Gate** to control previous information, uses the **Update Gate** to control memory replacement, creates a **Candidate Hidden State**, and produces the **Final Hidden State**.
 
@@ -33,7 +110,7 @@ However, imagining four dimensions this way makes the mechanism much easier to v
 
 ---
 
-# 2. Start with No Memory
+## 2. Start with No Memory
 
 Before processing the first word:
 
@@ -55,7 +132,7 @@ Think of `h₀` as the model's memory before it has read anything.
 
 ---
 
-# 3. Word 1: “Sara”
+## 3. Word 1: “Sara”
 
 The word `"Sara"` is converted into an input vector.
 
@@ -101,7 +178,7 @@ The important idea:
 
 ---
 
-# 4. Word 2: “was”
+## 4. Word 2: “was”
 
 Now:
 
@@ -135,7 +212,7 @@ The other information is still largely preserved.
 
 ---
 
-# 5. Word 3: “happy”
+## 5. Word 3: “happy”
 
 Now:
 
@@ -161,7 +238,7 @@ The important point:
 
 ---
 
-# 6. Word 4: “because”
+## 6. Word 4: “because”
 
 Similarly:
 
@@ -189,7 +266,7 @@ h_4 = [0.86, 0.78, 0.87, 0.67]
 
 Now comes the interesting word:
 
-# 7. Word 5: “she”
+## 7. Word 5: “she”
 
 This is where we demonstrate the **actual GRU architecture**.
 
@@ -221,7 +298,7 @@ h₄ ─────────────→│  GRU   │
 
 ---
 
-# 8. Reset Gate
+## 8. Reset Gate
 
 The Reset Gate is:
 
@@ -265,7 +342,7 @@ The Reset Gate therefore controls how much of the **previous hidden state** is u
 
 ---
 
-# 9. Apply the Reset Gate
+## 9. Apply the Reset Gate
 
 The GRU performs element-wise multiplication:
 
@@ -323,7 +400,7 @@ Filtered old memory:
 
 ---
 
-# 10. Candidate Hidden State
+## 10. Candidate Hidden State
 
 Now the GRU creates a **Candidate Hidden State**.
 
@@ -371,7 +448,7 @@ That decision is made by the **Update Gate**.
 
 ---
 
-# 11. Update Gate
+## 11. Update Gate
 
 The Update Gate is:
 
@@ -441,7 +518,7 @@ And:
 
 ---
 
-# 12. Final Hidden State
+## 12. Final Hidden State
 
 Now we use the most important GRU equation:
 
@@ -548,7 +625,7 @@ z_5\odot\tilde{h}_5 =
 
 ---
 
-# 13. Add the Two Contributions
+## 13. Add the Two Contributions
 
 Now:
 
@@ -572,7 +649,7 @@ h_5 =
 
 ---
 
-# 14. Understand What Just Happened
+## 14. Understand What Just Happened
 
 The entire calculation can be summarized as:
 
@@ -608,7 +685,7 @@ memory h₄ ────→│      GRU       │
 
 ---
 
-# 15. Then Process “won”
+## 15. Then Process “won”
 
 The next word is:
 
@@ -667,7 +744,7 @@ Information originating from **Sara** can continue influencing later hidden stat
 
 ---
 
-# 16. Reset Gate vs Update Gate
+## 16. Reset Gate vs Update Gate
 
 This is one of the most important concepts for students.
 
@@ -727,7 +804,7 @@ UPDATE GATE
 
 ---
 
-# 17. Complete GRU Calculation at a Glance
+## 17. Complete GRU Calculation at a Glance
 
 For the word **“she”**:
 
@@ -796,34 +873,11 @@ h_5=[0.887,\;0.794,\;0.8825,\;0.374]
 
 ---
 
-# 18. The Complete GRU Architecture
+## 18. The Complete GRU Architecture
 
 At any time step `t`, the process is:
 
-```text
-                         xₜ
-                          │
-                          ▼
-              ┌────────────────────┐
-              │                    │
-hₜ₋₁ ────────→│       GRU          │
-              │                    │
-              └─────────┬──────────┘
-                        │
-              ┌─────────┴─────────┐
-              ↓                   ↓
-         Reset Gate           Update Gate
-              │                   │
-              ↓                   │
-       rₜ ⊙ hₜ₋₁                  │
-              │                   │
-              ↓                   │
-       Candidate h̃ₜ              │
-              │                   │
-              └────────┬──────────┘
-                       ↓
-                  Final hₜ
-```
+![complete gru](images/simple_gru1.png)
 
 The four core equations are:
 
@@ -869,7 +923,7 @@ z_t\odot\tilde{h}_t
 
 ---
 
-# 19. What Do the Activation Functions Do?
+## 19. What Do the Activation Functions Do?
 
 You can briefly explain these while teaching the equations.
 
@@ -913,7 +967,7 @@ It helps keep the candidate hidden-state values bounded.
 
 ---
 
-# 20. Final Summary Slide
+## 20. Final Summary Slide
 
 ### GRU = Controlled Memory
 
@@ -953,7 +1007,7 @@ memory hₜ₋₁             │
 
 ---
 
-# 21. A Good Classroom Closing Question
+## 21. A Good Classroom Closing Question
 
 After finishing the example, ask students:
 
