@@ -1,0 +1,16 @@
+A great visualization
+https://bbycroft.net/llm
+https://poloclub.github.io/transformer-explainer/
+
+https://github.com/poloclub/transformer-explainer
+
+
+How Transformers Work: A Detailed Exploration of Transformer Architecture
+https://www.datacamp.com/tutorial/how-transformers-work
+
+The Illustrated Transformer
+https://jalammar.github.io/illustrated-transformer/
+
+
+notebook for attention
+https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ#scrollTo=-QnRteSLPOHm
