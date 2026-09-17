@@ -1,0 +1,6 @@
+Back Propagation through time
+
+https://m.blog.naver.com/gaussian37/221210061511
+
+
+https://mmuratarat.github.io/2019-02-07/bptt-of-rnn
